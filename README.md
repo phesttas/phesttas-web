@@ -1,2 +1,2 @@
-# phesttas-web
-The web interface for Phesttas service
+# Phesttas customers web
+The web interface for customers on Phesttas service
